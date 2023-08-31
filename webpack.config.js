@@ -18,6 +18,9 @@ module.exports = {
   
   plugins: [
     new Dotenv(),
+  //   new webpack.DefinePlugin({
+  //     'process.env': JSON.stringify(process.env)
+  //  }),
     new CleanWebpackPlugin(),
     new ESLintPlugin({
       context: "compiler.context",
@@ -36,7 +39,7 @@ module.exports = {
       outputReport: false
     }),
     new HtmlWebpackPlugin({
-      title: 'Shape Tracker',
+      title: 'Gif App',
       template: './src/index.html',
       inject: 'body'
     })
