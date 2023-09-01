@@ -6,6 +6,7 @@ import './css/style.css';
 import Logo from './assets/img/logo.png';
 
 $(".navbar-brand img").attr("src", Logo);
+$("link").attr("href", Logo);
 
 $(document).ready(function() {
     $('#input-group-button-right').click(function() {
