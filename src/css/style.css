@@ -105,3 +105,9 @@ body {
 .error {
     color: rgb(75, 25, 2)
 }
+
+.card {
+    background-color: #f8f8ff81;
+    margin-top: 17%;
+    margin-bottom: 20%;
+}
