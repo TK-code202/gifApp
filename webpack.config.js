@@ -42,6 +42,12 @@ module.exports = {
       title: 'Gif App',
       template: './src/index.html',
       inject: 'body'
+    }),
+    new HtmlWebpackPlugin({
+      template: './src/aboutUs.html',
+      filename: 'aboutUs.html',
+      inject: 'body',
+      chunks : ['main']
     })
   ],
   module: {
