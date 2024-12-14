@@ -26,7 +26,7 @@ _This Application enables users search for interesting gifs using keywords by ma
 * _Run npm install in your terminal to install libraries_
 * _Run npm start in your terminal_
 
- _For the API, You would need to go on the [official Giphy Developers Website](https://developers.giphy.com/) to create an account and API KEY. Click Create Account. After createing an account head to the dashboard and click Create App to get your API Beta key. You can also read the API Documnetation on the [Giphy Developers Website](https://developers.giphy.com/docs/api/)._
+ _For the API, You would need to go on the [official Giphy Developers Website](https://developers.giphy.com/) to create an account and API KEY. Click Create Account. After creating an account, head to the dashboard and click Create App to get your API Beta key. You can also read the API Documnetation on the [Giphy Developers Website](https://developers.giphy.com/docs/api/)._
 
 #### _Installation of Dotenv is required for your API KEY._
 
