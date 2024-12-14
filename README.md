@@ -1,6 +1,6 @@
 # GIF API APP
 
-#### An application providing gifs to users based on API calls.
+#### A web application providing gifs to users based on API calls.
 
 #### By **Tofunmi Kusimo**
 
